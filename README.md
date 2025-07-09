@@ -51,5 +51,5 @@ This repository will grow over time with new notebooks in areas such as machine 
 ## 📫 Contact
 
 **Paul Juma**  
-📧 asiropaul8@gmail.com  
+📧 legendchiro10@gmail.com  
 🌐 [GitHub: SZN-CHIRO](https://github.com/SZN-CHIRO)
